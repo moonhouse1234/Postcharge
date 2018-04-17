@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorTransparent">#00000000</color>
+        <color name="colorPrimary">#33aaff</color>
+        <color name="colorPrimaryDark">#2299ee</color>
+        <color name="navigationBarColor">#f46444</color>
+        <color name="colorPrimaryDarkTrans">#CCf57257</color>
+        <color name="colorAccent">#FF4081</color>
+        <color name="colorGreen">#107D45</color>
+        <color name="colorLightGreen">#34d1b2</color>
+        <color name="colorWhite">#ffffff</color>
+        <color name="colorBlue">#338FCC</color>
+        <color name="colorBlack">#000000</color>
+        <color name="colorHint">#808080</color>
+        <color name="colorBack">#CCCCCC</color>
+        <color name="colorDeepGray">#ABABAB</color>
+        <color name="colorLightGray">#E3E3E3</color>
+        <color name="colorTextBack">#3C3C3C</color>
+        <color name="colorGray">#EEEEEE</color>
+        <color name="colorRed">#E61A1A</color>
+        <color name="tab_indicator">#808080</color>
+        <color name="tab_tv_normal">#808080</color>
+        <color name="tab_tv_selected">#107D45</color>
+        <color name="tab_bg">#fcfcfc</color>
+        <color name="tab_div">#d6d6d6</color>
+        <!--颜色-->
+        <color name="theme">#009900</color>
+        <color name="header_title_text">#101010</color>
+        <color name="header_line">#BBBBBB</color>
+        <color name="line">#ABABAB</color>
+        <color name="orange">#FF6100</color>
+        <color name="strip">#F6F6F6</color>
+        <color name="tv_gray">#7D8997</color>
+
+    </resources>
